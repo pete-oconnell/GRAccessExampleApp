@@ -1,5 +1,5 @@
 # GRAccessExampleApp
-C# application showing the different functionality of the Wonderware GRAccess toolkit
+C# application showing the different functionality of the Wonderware GRAccess toolkit - the master branch is updated for each core code change which adds additional functionality. The dev branch contains the latest commits which may not compile correctly.
 
 # Unsupported
 
