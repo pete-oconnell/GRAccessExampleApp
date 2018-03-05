@@ -1,1 +1,10 @@
 C:\Git\GRAccessExampleApp\GRAccessExample\bin\Debug\GRAccessExample.exe.config
+C:\Git\GRAccessExampleApp\GRAccessExample\bin\Debug\GRAccessExample.exe
+C:\Git\GRAccessExampleApp\GRAccessExample\bin\Debug\GRAccessExample.pdb
+C:\Git\GRAccessExampleApp\GRAccessExample\bin\Debug\ArchestrA.GRAccess.dll
+C:\Git\GRAccessExampleApp\GRAccessExample\obj\Debug\GRAccessExample.csprojResolveAssemblyReference.cache
+C:\Git\GRAccessExampleApp\GRAccessExample\obj\Debug\GRAccessExample.GRAccessExampleApp.resources
+C:\Git\GRAccessExampleApp\GRAccessExample\obj\Debug\GRAccessExample.Properties.Resources.resources
+C:\Git\GRAccessExampleApp\GRAccessExample\obj\Debug\GRAccessExample.csproj.GenerateResource.Cache
+C:\Git\GRAccessExampleApp\GRAccessExample\obj\Debug\GRAccessExample.exe
+C:\Git\GRAccessExampleApp\GRAccessExample\obj\Debug\GRAccessExample.pdb
