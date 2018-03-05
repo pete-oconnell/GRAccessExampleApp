@@ -13,7 +13,7 @@
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
+    <PlatformTarget>x86</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -34,7 +34,7 @@
   <ItemGroup>
     <Reference Include="ArchestrA.GRAccess, Version=1.8.0.0, Culture=neutral, PublicKeyToken=23106a86e706d0ae">
       <SpecificVersion>False</SpecificVersion>
-      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
       <HintPath>..\..\..\Program Files (x86)\Common Files\ArchestrA\ArchestrA.GRAccess.dll</HintPath>
     </Reference>
     <Reference Include="System" />
